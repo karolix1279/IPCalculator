@@ -1,0 +1,8 @@
+Adres sieci: 				192.168.0.0
+Class of Network: 			C
+Public or private: 			Public
+Subnet mask: 				255.255.255.0		11000000.10101000.00000000.10111001
+Broadcast: 					192.168.0.255		11000000.10101000.00000000.11111111
+PFirst Host adress: 		192.168.0.1			11000000.10101000.00000000.00000001
+Last Host Adress: 			192.168.0.254		11000000.10101000.00000000.11111110
+Max quantity od Hosts:	 	254.0
